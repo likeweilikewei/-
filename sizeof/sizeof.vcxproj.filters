@@ -15,19 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fibonacci.cpp">
+    <ClCompile Include="sizeof.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="recursion.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="top_down_dynamic_programming.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="down_top_dynamic_programming.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
